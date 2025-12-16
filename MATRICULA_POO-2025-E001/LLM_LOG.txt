@@ -1,0 +1,5 @@
+Usei o ChatGPT para:
+- Revisar regras de negócio do exercício
+- Conferir estrutura OO das classes
+- Ajudar a organizar o menu em console
+Todo o código foi compreendido e adaptado por mim.
