@@ -1,5 +1,11 @@
-Usei o ChatGPT para:
-- Revisar regras de negócio do exercício
-- Conferir estrutura OO das classes
-- Ajudar a organizar o menu em console
-Todo o código foi compreendido e adaptado por mim.
+LLM usage log – Practical Exercise E001
+
+The LLM was used as a support tool during the development of this project, mainly for:
+
+- Clarifying Object-Oriented Programming concepts discussed in class (encapsulation, constructors, and business methods).
+- Reviewing the exercise statement to ensure all required rules and constraints were correctly implemented.
+- Assisting with debugging compilation and execution issues on Windows (compiler setup and environment configuration).
+- Improving code organization, readability, and documentation comments.
+
+All implementation decisions, class structures, and business rules were fully understood, reviewed, and adapted by the student.
+The final code was manually written, tested, and validated by the student.
