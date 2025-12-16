@@ -5,9 +5,7 @@
 
 using namespace std;
 
-// =======================
 // Classe Equipamento
-// =======================
 class Equipamento {
 private:
     int id;
@@ -76,9 +74,7 @@ public:
     }
 };
 
-// =======================
 // Classe SistemaLab
-// =======================
 class SistemaLab {
 private:
     vector<Equipamento> equipamentos;
@@ -222,9 +218,7 @@ public:
     }
 };
 
-// =======================
 // Função principal (menu)
-// =======================
 int main() {
     SistemaLab sistema;
     int opcao;
